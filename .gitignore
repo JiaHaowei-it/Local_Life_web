@@ -1,0 +1,12 @@
+# IDEA配置
+.idea/
+*.iml
+
+# Nginx日志、进程文件
+nginx-1.18.0/logs/
+*.log
+*.pid
+
+# 系统文件
+.DS_Store
+Thumbs.db
